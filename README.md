@@ -15,4 +15,5 @@ Los productos mas vendidos por categories son las siguientes.
 ### ¿Con base en la historia como es el desempeño en ventas?
 El mes de Junio se visualiza con el mayor numero de transacciones mensuales seguido de Mayo sin embargo con base al último semestre se logra ver un incremento por mes en tendencia.
 
-<img width="549" alt="image" src="https://github.com/user-attachments/assets/ad47e352-68c0-4168-afeb-2798bd7d93de">
+<img width="819" alt="image" src="https://github.com/user-attachments/assets/23d1bb8d-cc1b-4186-a10e-0952ff35af49">
+
