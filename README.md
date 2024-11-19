@@ -34,16 +34,14 @@ En la siguiente tabla observamos el Top 10 de los productos con mas ventas y tra
 
 Grafico Total de Ingresos por Mes
 
-###Conclusiones Finales.
-1.- El periodo de tiempo que comprende de entre la 6 am a 9:00 am es donde mayor ventas se tiene, en este periodo de tiempo hay que garantizar la disponibilidad de nuestros productos con mayor desempeño.
-2.- El productos Brewed Chai tea es nuesro productos mas vendido con mas transacciones sin emabrgo en ventas no representan las mayores ventas siendo Barista Espresso por lo que el aporte esta en este producto que debemos garantizar disponibilidad en nuestras tiendas.
-3.- A nivel categoria es Cafe y Te los que mas vendemos sin embargo en contraste tenemos la categoria Packaged Chocolate que representa la categoria menos vendida lo cual puede llevarnos a evaluar la continuidad del mismo en los negocios.
-4.- Hell's Kitchen es nuestra tienda con mayor desempeño en los ultimos 6 meses sin embargo las tres han presentado incremento en transacciones y volumen en ventas.
-
-
 <img width="570" alt="image" src="https://github.com/user-attachments/assets/1ef9b820-47b9-48be-add4-5ed2368422aa">
 
 Grafico Total de Ingresos por Categoria Mensual
 
 <img width="794" alt="image" src="https://github.com/user-attachments/assets/8a1c4c2b-1d73-42a2-96c9-e62fce82b472">
 
+###Conclusiones Finales.
+1.- El periodo de tiempo que comprende de entre la 6 am a 9:00 am es donde mayor ventas se tiene, en este periodo de tiempo hay que garantizar la disponibilidad de nuestros productos con mayor desempeño.
+2.- El productos Brewed Chai tea es nuesro productos mas vendido con mas transacciones sin emabrgo en ventas no representan las mayores ventas siendo Barista Espresso por lo que el aporte esta en este producto que debemos garantizar disponibilidad en nuestras tiendas.
+3.- A nivel categoria es Cafe y Te los que mas vendemos sin embargo en contraste tenemos la categoria Packaged Chocolate que representa la categoria menos vendida lo cual puede llevarnos a evaluar la continuidad del mismo en los negocios.
+4.- Hell's Kitchen es nuestra tienda con mayor desempeño en los ultimos 6 meses sin embargo las tres han presentado incremento en transacciones y volumen en ventas.
