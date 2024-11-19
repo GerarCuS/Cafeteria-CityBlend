@@ -32,5 +32,8 @@ En la siguiente tabla observamos el Top 10 de los productos con mas ventas y tra
 
 <img width="1165" alt="image" src="https://github.com/user-attachments/assets/e03c5cf1-7ca1-4ff4-bf05-6edc463e746a">
 
+Total de Ingresos por Mes
+
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/1ef9b820-47b9-48be-add4-5ed2368422aa">
 
 
