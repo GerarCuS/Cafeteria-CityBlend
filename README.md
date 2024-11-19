@@ -12,3 +12,7 @@ Los productos mas vendidos por categories son las siguientes.
 
 <img width="417" alt="image" src="https://github.com/user-attachments/assets/3602f9bc-b440-4057-baee-784a0875d4a9">
 
+### ¿Con base en la historia como es el desempeño en ventas?
+El mes de Junio se visualiza con el mayor numero de transacciones mensuales seguido de Mayo sin embargo con base al último semestre se logra ver un incremento por mes en tendencia.
+
+<img width="549" alt="image" src="https://github.com/user-attachments/assets/ad47e352-68c0-4168-afeb-2798bd7d93de">
