@@ -17,3 +17,11 @@ El mes de Junio se visualiza con el mayor desempeño mensual en ventas seguido d
 
 <img width="819" alt="image" src="https://github.com/user-attachments/assets/23d1bb8d-cc1b-4186-a10e-0952ff35af49">
 
+### Ingresos Mensuales por Tienda
+La tienda con mejor desempeño es la que se encuentra ubicada en Hell's Kitchen asi mismo este desempeño es visible en cada mes unos de los meses, la tabla 
+
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/ba1820dc-dfbb-4077-9889-9e3b66fcd2a0">
+
+<img width="724" alt="image" src="https://github.com/user-attachments/assets/d83fd55c-1a2a-4733-bbc9-5b1d96909134">
+
+
