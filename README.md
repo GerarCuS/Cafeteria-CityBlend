@@ -24,4 +24,13 @@ La tienda con mejor desempeño es la que se encuentra ubicada en Hell's Kitchen 
 
 <img width="724" alt="image" src="https://github.com/user-attachments/assets/d83fd55c-1a2a-4733-bbc9-5b1d96909134">
 
+El numero de transacciones de categoria en los ultimos 6 meses.
+
+<img width="417" alt="image" src="https://github.com/user-attachments/assets/bfe788c5-8952-4850-935c-26cab34a99fe">
+
+En la siguiente tabla observamos el Top 10 de los productos con mas ventas y transacciones por mes.
+
+<img width="1165" alt="image" src="https://github.com/user-attachments/assets/e03c5cf1-7ca1-4ff4-bf05-6edc463e746a">
+
+
 
